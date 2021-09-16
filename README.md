@@ -1,4 +1,13 @@
 # PyBer_Analysis
+Data Analyst at PyBer Create line, bar, scatter, bubble, pie, and box-and-whisker plots using Matplotlib. And determine mean, median, and mode using Pandas, NumPy, and SciPy statistics.
+
+##  Resources:
+Data Source: PyBer_Challenge_starter_code.ipynb named later as PyBer_Challenge.ipynb
+
+Data File: file.csv
+
+Software: Matplotli 3.2.2, Python 3.9, Visual Studio Code 1.50.0, Anaconda 4.8.5, Jupyter Notebook 6.1.4, Pandas
+
 ##  Overview of the analysis: Explain the purpose of the new analysis
 Performing an exploratory analysis and developing visualizations using the PbBer data to facilitate the need for access to services and assess affordability to the underserved neighborhoods.  The data vidualization will allow for quick understanding of our findings as well as the ability to detect patterns, trends, and correlations.  The data analysis time framewas from January to early May of 2019 
 
